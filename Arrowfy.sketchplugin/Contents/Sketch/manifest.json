@@ -9,7 +9,7 @@
     "commands" : [
 	{
 	    "name" : "Arrowfy",
-	    "identifier" : "arrowfy"
+	    "identifier" : "arrowfy",
 	    "script" : "script.cocoascript",
 	    "handler" : "createArrow",
 	    "shortcut" : "cmd shift a"	    
